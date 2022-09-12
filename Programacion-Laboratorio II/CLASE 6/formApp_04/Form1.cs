@@ -17,58 +17,50 @@ namespace formApp_04
             this.textBox1.Text = "";
             this.listBox1.Items.Clear();
         }
-        private void burbuja(int[] arreglo)
-        {
-            
-        }
         private void button2_Click(object sender, EventArgs e)
         {
-            int numero = int.Parse(this.textBox1.Text);
-            int maxItems = this.listBox1.Items.Count;
-
-            this.listBox1.Items.Add(numero);
-            this.listBox1.Sorted = true;
-            /*
-             
-            if (maxItems > 2)
-            {
-
-                char numString = this.listBox1.Text.ElementAt(0);
-                int num = (int)numString;
-
-                this.listBox1.Items.Add($"el indice 0 es  = {num}");
-
-            }
-
-
-             */
-
-
-            //this.listBox1.Items.Add($"Size : {this.listBox1.Items.Count}");
-
-            // reseteamos.
+            this.listBox1.Items.Add(this.textBox1.Text);
+            ordenamientoBurbuja();
+            
             this.textBox1.Text = "";
         }
 
-        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-            /*
-             this.isRadioButton = false;
-            this.listBox1.Items.Add($"isRadioButton 2 enable ? : {this.radioButton2.Checked}");
-             */
+            ordenamientoBurbuja();
         }
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        private void ordenamientoBurbuja()
         {
+            int maxItems = this.listBox1.Items.Count;
 
-            /*
-             
-            this.isRadioButton = false;
-
-            this.listBox1.Items.Add($"isRadioButton 1 enable ? : {this.radioButton1.Checked}");
-             */
-
-
+            for (int i = 0; i < maxItems; i++)
+            {
+                for (int j = i + 1; j < maxItems; j++)
+                {
+                    if (this.radioButton2.Checked == true)
+                    {
+                        if (int.Parse(this.listBox1.Items[i].ToString())
+                                > int.Parse(this.listBox1.Items[j].ToString()))
+                        {
+                            int aux = int.Parse(this.listBox1.Items[i].ToString());
+                            this.listBox1.Items[i] = this.listBox1.Items[j];
+                            this.listBox1.Items[j] = aux;
+                        }
+                    }
+                    else
+                    {
+                        if (int.Parse(this.listBox1.Items[i].ToString())
+                                < int.Parse(this.listBox1.Items[j].ToString()))
+                        {
+                            int aux = int.Parse(this.listBox1.Items[i].ToString());
+                            this.listBox1.Items[i] = this.listBox1.Items[j];
+                            this.listBox1.Items[j] = aux;
+                        }
+                    }
+                }
+            }
         }
+
     }
 }

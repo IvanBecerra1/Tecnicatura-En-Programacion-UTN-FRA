@@ -110,6 +110,7 @@
             this.button3.TabIndex = 2;
             this.button3.Text = "Ordenar";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // radioButton2
             // 
@@ -121,7 +122,6 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Ascendente";
             this.radioButton2.UseVisualStyleBackColor = true;
-            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton1
             // 
@@ -133,7 +133,6 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Descendiente";
             this.radioButton1.UseVisualStyleBackColor = true;
-            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // button1
             // 
