@@ -1,0 +1,17 @@
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\bin\Debug\net6.0-windows\formApp_01.exe
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\bin\Debug\net6.0-windows\formApp_01.deps.json
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\bin\Debug\net6.0-windows\formApp_01.runtimeconfig.json
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\bin\Debug\net6.0-windows\formApp_01.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\bin\Debug\net6.0-windows\formApp_01.pdb
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.csproj.AssemblyReference.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.csproj.GenerateResource.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\refint\formApp_01.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.pdb
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.genruntimeconfig.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\ref\formApp_01.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_01\obj\Debug\net6.0-windows\formApp_01.isLabelText.resources

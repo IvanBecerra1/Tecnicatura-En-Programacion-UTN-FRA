@@ -1,0 +1,17 @@
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\bin\Debug\net6.0-windows\formApp_02.exe
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\bin\Debug\net6.0-windows\formApp_02.deps.json
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\bin\Debug\net6.0-windows\formApp_02.runtimeconfig.json
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\bin\Debug\net6.0-windows\formApp_02.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\bin\Debug\net6.0-windows\formApp_02.pdb
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.csproj.AssemblyReference.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.Form1.resources
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.csproj.GenerateResource.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\refint\formApp_02.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.pdb
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\formApp_02.genruntimeconfig.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\CLASE 06\ejercisios\formApp_02\obj\Debug\net6.0-windows\ref\formApp_02.dll
