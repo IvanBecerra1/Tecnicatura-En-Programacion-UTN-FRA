@@ -26,7 +26,15 @@ namespace formApp_03
          */
         private void button2_Click(object sender, EventArgs e)
         {
-            this.textBox1.Text = this.textBox2.Text = this.textBox3.Text = "";
+
+            foreach (Control aux in this.groupBox1.Controls)
+            {
+                if ( (aux is TextBox) == false)
+                {
+                    continue;
+                }
+                ((TextBox)aux).Clear();
+            }
         }
 
         public double calcularDescuento(double monto)
