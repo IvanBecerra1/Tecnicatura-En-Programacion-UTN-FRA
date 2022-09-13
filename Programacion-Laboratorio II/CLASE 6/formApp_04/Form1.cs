@@ -14,9 +14,27 @@ namespace formApp_04
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.textBox1.Text = "";
-            this.listBox1.Items.Clear();
+
+            foreach (Control control in this.groupBox2.Controls)
+            {
+                if ( (control is ListBox) == false)
+                {
+                    continue;
+                }
+                ((ListBox)control).Items.Clear();
+            }
+
+            foreach (Control control in this.groupBox1.Controls)
+            {
+                if ( (control is TextBox) == false)
+                {
+                    continue;
+                }
+                ((TextBox)control).Clear();
+            }
         }
+
+
         private void button2_Click(object sender, EventArgs e)
         {
             this.listBox1.Items.Add(this.textBox1.Text);
