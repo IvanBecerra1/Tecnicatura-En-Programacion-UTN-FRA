@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp2_l02/1.0.0": {
+        "dependencies": {
+          "LibreriaRegistro": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp2_l02.dll": {}
+        }
+      },
+      "LibreriaRegistro/1.0.0": {
+        "runtime": {
+          "LibreriaRegistro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp2_l02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaRegistro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
