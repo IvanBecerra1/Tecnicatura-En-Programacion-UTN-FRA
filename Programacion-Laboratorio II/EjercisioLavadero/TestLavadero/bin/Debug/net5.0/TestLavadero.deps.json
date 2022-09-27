@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestLavadero/1.0.0": {
+        "dependencies": {
+          "EjercisioAbstracionClase": "1.0.0"
+        },
+        "runtime": {
+          "TestLavadero.dll": {}
+        }
+      },
+      "EjercisioAbstracionClase/1.0.0": {
+        "runtime": {
+          "EjercisioAbstracionClase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestLavadero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EjercisioAbstracionClase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

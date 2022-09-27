@@ -1,0 +1,12 @@
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\obj\Debug\net5.0\EjercisioAbstracionClase.csproj.AssemblyReference.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\obj\Debug\net5.0\EjercisioAbstracionClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\obj\Debug\net5.0\EjercisioAbstracionClase.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\obj\Debug\net5.0\EjercisioAbstracionClase.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\obj\Debug\net5.0\EjercisioAbstracionClase.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\bin\Debug\net5.0\EjercisioAbstracionClase.deps.json
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\bin\Debug\net5.0\EjercisioAbstracionClase.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\bin\Debug\net5.0\EjercisioAbstracionClase.pdb
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\obj\Debug\net5.0\EjercisioAbstracionClase.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\obj\Debug\net5.0\refint\EjercisioAbstracionClase.dll
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\obj\Debug\net5.0\EjercisioAbstracionClase.pdb
+C:\Users\Ivan\Documents\Programacion-Laboratorio\EjercisioAbstracionClase\obj\Debug\net5.0\ref\EjercisioAbstracionClase.dll
